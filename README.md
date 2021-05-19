@@ -1,1 +1,1 @@
-# jetPlane-mgmt-system
+# jetplane-mgmt-system
